@@ -8,7 +8,8 @@
 - **Languages & Frameworks**: Node.js, Express.js, TypeScript, Nest.js  
 - **Databases**: MongoDB, PostgreSQL (TypeORM), MySQL (Sequelize), Redis  
 - **System Design**: API Performance Optimization, Data Modeling, Caching  
-- **Tools**: Git, GitHub, Jest, Docker, Postman  
+- **Tools**: Git, GitHub, Jest, Docker, Postman
+• Frontend (Basic Knowledge): HTML, CSS, Bootstrap, Vue.js, Angular, Quasar   
 
 ## 📌 Featured Backend Projects  
 
