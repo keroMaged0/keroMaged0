@@ -12,6 +12,12 @@
 
 ## 📌 Featured Backend Projects  
 
+### 🔹 [ASE Group System](https://github.com/keroMaged0/ase-group)  
+📌 **A Pharmaceutical Management System** handling company operations, doctor interactions, and pharmacy management.  
+✔ Multi-role access control system for secure data access.  
+✔ Real-time inventory tracking and automated product order workflows.  
+**Tech Stack:** Node.js, Express.js, TypeScript, PostgreSQL (TypeORM), Redis  
+
 ### 🔹 [E-Learning API](https://github.com/keroMaged0/E-Learning-API)  
 📌 A platform for online learning with courses, quizzes, and real-time discussions.  
 **Tech Stack:** Node.js, Express.js, TypeScript, Mongoose, Redis  
