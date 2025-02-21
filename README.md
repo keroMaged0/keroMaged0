@@ -43,3 +43,6 @@
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kerols%20Maged-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kerols-maged/)  
 [![GitHub](https://img.shields.io/badge/GitHub-keroMaged0-lightgray?style=flat&logo=github)](https://github.com/keroMaged0)  
+[![Gmail](kerolsmagedraga@gmail.com)
+
+
